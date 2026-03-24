@@ -1,0 +1,5 @@
+{
+  "name": "Sarah - Mathilde's Assistant",
+  "description": "A futuristic voice assistant for Mathilde Pluvinage Debaize, powered by Gemini Live API.",
+  "requestFramePermissions": ["microphone"]
+}
